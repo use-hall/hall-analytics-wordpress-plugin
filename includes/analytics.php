@@ -3,7 +3,7 @@
  * Integration with the Hall Analytics API
  * https://docs.usehall.com/api-reference/visit
  *
- * @package Hall AI Analytics for WordPress
+ * @package AI Analytics
  */
 
 // Prevent direct access

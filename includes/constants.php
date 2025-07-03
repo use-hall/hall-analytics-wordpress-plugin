@@ -2,7 +2,7 @@
 /**
  * Constants file
  *
- * @package Hall AI Analytics for WordPress
+ * @package AI Analytics
  */
 
 // Prevent direct access

@@ -5,7 +5,7 @@
  * This file runs when the plugin is deleted from the WordPress admin.
  * It removes all plugin data from the database.
  *
- * @package Hall AI Analytics for WordPress
+  * @package AI Analytics
  *
  */
 

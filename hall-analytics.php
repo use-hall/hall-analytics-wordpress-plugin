@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hall AI Analytics for WordPress
+Plugin Name: AI Analytics
 Plugin URI: https://usehall.com/ai-agent-analytics?utm_source=wordpress_plugin
 Description: Measure and understand how AI agents and assistants are accessing your WordPress site. Track referrals and clicks from conversational AI platforms like ChatGPT.
 Version: 1.0.0
